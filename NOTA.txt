@@ -1,0 +1,8 @@
+En está carpeta hay:
+-3 scripts de R para reproducir las visualizaciones
+-Carpeta pngs con los pngs de las visualizaciones 
+-Carpeta data con los datasets necesarios
+-Memoria con explicación, proceso y jsutificación
+-Carpeta workspace_por_si_acaso: No debería haber problemas pero por si acaso
+no funcionan los scripts, en esta carpeta está la configuraciónd de rstudio
+en la que yo los he ejecutado
